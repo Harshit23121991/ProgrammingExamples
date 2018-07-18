@@ -1,0 +1,146 @@
+<document xmlns="http://xmlgraphics.apache.org/fop/intermediate" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:nav="http://xmlgraphics.apache.org/fop/intermediate/document-navigation" xmlns:foi="http://xmlgraphics.apache.org/fop/internal" version="2.0">
+<header>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="">
+<xmp:CreatorTool>Apache FOP Version 1.1</xmp:CreatorTool>
+<xmp:MetadataDate>2018-03-01T10:49:17+01:00</xmp:MetadataDate>
+<xmp:CreateDate>2018-03-01T10:49:17+01:00</xmp:CreateDate>
+</rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+</header>
+<page-sequence xml:space="preserve">
+<page index="0" name="1" page-master-name="vertrag" width="595275" height="841889">
+<page-header/>
+<content>
+<viewport transform="translate(45354,28346)" width="504567" height="11338">
+<viewport width="504567" height="28346">
+<image xlink:href="classpath:/at/spardat/store/contract/print/fop/header/9.png" x="339282" y="1100" width="165285" height="28346"/>
+</viewport>
+</viewport>
+<viewport transform="translate(45354,771024)" width="504567" height="42519"/>
+<viewport transform="translate(45354,53857)" width="504567" height="717167">
+<font family="sans-serif" style="normal" weight="700" variant="normal" size="14000" color="#000000"/>
+<text x="0" y="11289">Kontoeröffnung</text>
+<g transform="translate(0,26225)">
+<font size="9000"/>
+<text x="0" y="7699">Kontoinhaberin:</text>
+<g transform="translate(73700)">
+<font weight="400"/>
+<text x="0" y="7699">Maria Msq. Musterfrau</text>
+<text x="0" y="18499">Herrengasse, 1010 Wien</text>
+</g>
+<g transform="translate(0,21600)">
+<font weight="700"/>
+<text x="0" y="7699">Geburtsdatum:</text>
+</g>
+<g transform="translate(73700,21600)">
+<font weight="400"/>
+<text x="0" y="7699">09.07.1921</text>
+</g>
+</g>
+<g transform="translate(311811,26225)">
+<font weight="700" size="7000"/>
+<text x="0" y="7699">s-IT Solution Austria</text>
+<text x="0" y="18499">Mutterinstitut Head Office</text>
+<font weight="400"/>
+<text x="0" y="29299">Kremser Straße 141</text>
+<text x="0" y="40099">4010 Linz</text>
+</g>
+<line x1="0" y1="76874" x2="510236" y2="76874" stroke-width="500" color="#000000" style="solid"/>
+<font size="9000"/>
+<text x="0" y="93924">Ich beauftrage die Eröffnung der Produkte , George und BankCard mit persönlichem Code.</text>
+<font weight="700"/>
+<text x="0" y="110724">Es gelten: </text>
+<font weight="400"/>
+<text x="45513" y="110724"> Allgemeine Geschäftsbedingungen Z 1 bis 55, Bedingungen für George und Datenschutzerklärung,</text>
+<text x="0" y="121524">Kundenrichtlinien für die BankCard, das Kartenservice und die Kontaktlos-Funktion sowie die Bedingungen Karten-Airbag.</text>
+<font weight="700"/>
+<text x="0" y="138324">Kontoinformationen und Kontoabschluss: </text>
+<font weight="400"/>
+<text x="183006" y="138324"> Meine Kontoauszüge rufe ich über Kontoauszugsdrucker bzw. elektronische</text>
+<text x="0" y="149124">Medien ab. Ich verpflichte mich dazu, die Auszüge oder andere Mitteilungen regelmäßig abzurufen. Spätestens 6 Wochen</text>
+<text x="0" y="159924">nach Bereitstellung tritt die Wirkung der Zustellung ein. Das Konto wird jährlich abgeschlossen.</text>
+<font weight="700"/>
+<text x="0" y="176724">Zeichnungsberechtigte: </text>
+<font weight="400"/>
+<text x="104517" y="176724"> Allfällige Aufträge mit Dauerwirkung (z.B. Einzugsaufträge), die von einer zeichnungsberechtigten</text>
+<text x="0" y="187524">Person erteilt wurden, bleiben auch nach Widerruf der Zeichnungsberechtigung bestehen.</text>
+<font weight="700"/>
+<text x="0" y="204324">Transaktionen auf eigene/fremde Rechnung: </text>
+<font weight="400"/>
+<text x="193041" y="204324"> Ich bestätige, dass ich sämtliche Dispositionen auf eigene Rechnung</text>
+<text x="0" y="215124">durchführe. Wenn ich Transaktionen auf fremde Rechnung oder im fremden Auftrag betreiben will, informiere ich Sie vorab</text>
+<text x="0" y="225924">und gebe Ihnen die Treugeberin oder den Treugeber bekannt.</text>
+<font weight="700"/>
+<text x="0" y="242724">Steuerland: </text>
+<font weight="400"/>
+<text x="52011" y="242724"> Ich bestätige, dass ich ausschließlich in Österreich steueransässig bin. Allfällige Änderungen werde ich Ihnen</text>
+<text x="0" y="253524">sofort bekanntgeben.</text>
+<font weight="700"/>
+<text x="0" y="270324">Gläubigerschutz: </text>
+<font weight="400"/>
+<text x="76014" y="270324"> Ich bin damit einverstanden, dass Sie bei Fälligstellung des Kontos, bei Rechtsverfolgungsschritten</text>
+<text x="0" y="281124">bzw. bei missbräuchlicher Verwendung von Zahlungsverkehrsinstrumenten folgende Daten an die Kleinkreditevidenz und</text>
+<text x="0" y="291924">die Warnliste des Kreditschutzverbandes von 1870, übermitteln: Name, Anschrift, Geburtsdatum, Höhe der Verbindlichkeit,</text>
+<text x="0" y="302724">Rückführungsmodalitäten, Schritte des Kreditinstitutes im Zusammenhang mit der Fälligstellung und der Rechtsverfolgung</text>
+<text x="0" y="313524">sowie dem Missbrauch von Zahlungsverkehrsinstrumenten. Zweck der Übermittlung ist die Verwahrung, Zusammenführung</text>
+<text x="0" y="324324">und Weitergabe der vorstehend angeführten Daten an andere Kreditinstitute, Finanzinstitute und Leasinggesellschaften zur</text>
+<text x="0" y="335124">Wahrung ihrer Gläubigerschutzinteressen.</text>
+<font weight="700"/>
+<text x="0" y="351924">George: </text>
+<font weight="400"/>
+<text x="37008" y="351924"> Auf mein Konto und auf eventuell zukünftige Konten und Verträge kann ich mit George zugreifen. TAC-SMS</text>
+<text x="0" y="362724">ist für 111111111 aktiviert und als mobiles Tageslimit gilt EUR 3.000,- Ich bin einverstanden, dass mir bzw. etwaigen</text>
+<text x="0" y="373524">Zeichnungsberechtigten die Kontoauszüge dieses Kontos auch nach dessen Schließung via George ersichtlich sind.</text>
+<text x="0" y="384324">Die Nutzung von George ist kostenlos (siehe Preisblatt für George). Ich bin damit einverstanden, dass Sie mir folgendes</text>
+<text x="0" y="395124">an mein digitales Postfach (s Kontakt) oder meine E-Mail-Adresse schicken: Änderungen der Bedingungen oder der</text>
+<text x="0" y="405924">Datenschutzerklärung, die Sperre bzw. Kündigung von George, die Informationen über Entgelte bzw. den Ablauf des George-</text>
+<text x="0" y="416724">Abos (Letzteres zumindest 4 Wochen vor Ablauf). Das George-Abo samt allfälliger Plug-Ins verlängert sich um weitere Monate</text>
+<text x="0" y="427524">zu den dann aktuell gültigen Bedingungen und Entgelten, die mir in der Verständigung mitgeteilt werden, sofern ich nicht bis 5</text>
+<text x="0" y="438324">Tage vor dem Ablaufdatum kündige. Falls ich diese Informationen per Post möchte, werde ich es Ihnen mitteilen.</text>
+<font weight="700"/>
+<text x="0" y="455124">BankCard: </text>
+
+<font weight="400"/>
+<text x="48006" y="455124"> Bitte schicken Sie mir die Karte und den persönlichen Code an die oben angeführte Adresse. Im Falle des</text>
+<text x="0" y="465924">Abhandenkommens der Karte veranlasse ich eine sofortige Sperre der Karte im George oder unter Tel: +43 (0)50100-1188.</text>
+<text x="0" y="476724">Mit der BankCard kann ich Bargeld an Geldausgabeautomaten in den Selbstbedienungsfoyers der Erste Bank und</text>
+<text x="0" y="487524">Sparkassen bis zu einem Betrag von EUR 3.000,- pro Tag/Konto (Limit reduziert sich um getätigte Behebungsbeträge an</text>
+<text x="0" y="498324">Bankomaten und Zahlungen an der Bankomatkasse) und an Bankomaten bis zu einem Betrag von EUR 0,- pro Woche/Karte</text>
+<text x="0" y="509124">beheben. Ich kann bargeldlos bis zu einem Betrag von EUR 0,- pro Woche/Karte an allen Bankomatkassen mit Maestro-Logo</text>
+<text x="0" y="519924">bezahlen. Diese Limits gelten sofern ein entsprechender verfügbarer Betrag (Guthaben, eingeräumter Rahmen) am Konto</text>
+<text x="0" y="530724">besteht.</text>
+<font weight="700"/>
+<text x="0" y="547524">Zustimmung gemäß § 107 Telekommunikationsgesetz: </text>
+<font weight="400"/>
+<text x="236061" y="547524"> Ich bin einverstanden, von Ihnen telefonisch oder über sonstige</text>
+<text x="0" y="558324">Telekommunikationsmedien, wie z.B. E-Mail, zu Produkten und Dienstleistungen kontaktiert zu werden. Diese Zustimmung</text>
+<text x="0" y="569124">kann ich jederzeit widerrufen.</text>
+<font weight="700"/>
+<text x="0" y="585924">Unterschrift: </text>
+<font weight="400"/>
+<text x="56502" y="585924"> Es gelten die oben angeführten Bedingungen. Ich bestätige die Übernahme der "Allgemeinen Informationen</text>
+<text x="0" y="596724">zu Zahlungsdienstleistungen für Verbraucher", des "Informationsbogen für Einleger gemäß § 37a BWG" und des</text>
+<text x="0" y="607524">Konditionenblattes und ermächtige Sie alle Entgelte sowie sonstige Spesen für die oben angeführten Produkte von diesem</text>
+<text x="0" y="618324">Konto abzubuchen. Als Unterschriftsprobe für spätere Unterschriftsvergleiche wird die Unterschrift von meiner Ausweiskopie</text>
+<text x="0" y="629124">herangezogen.</text>
+<g transform="translate(0,664625)"/>
+<g transform="translate(311811,664625)">
+<line x1="0" y1="7449" x2="170078" y2="7449" stroke-width="500" color="#000000" style="solid"/>
+</g>
+<g transform="translate(0,675425)">
+<text x="0" y="7699">Wien, 01.03.2018</text>
+</g>
+<g transform="translate(311811,675425)">
+<text x="10010" y="7699">Meine Unterschrift als Kontoinhaberin</text>
+</g>
+</viewport>
+</content>
+<page-trailer/>
+</page>
+</page-sequence>
+<trailer/>
+</document>
+
