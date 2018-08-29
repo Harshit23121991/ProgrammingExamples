@@ -1,4 +1,4 @@
-package com.test;
+package com.sorting;
 
 /*Description:
 Insertion sort is a simple sorting algorithm that builds the final 
