@@ -1,5 +1,7 @@
 Step 1 : Create Parent project
 mvn archetype:generate -DgroupId=com.websystique.multimodule -DartifactId=parent-project
+OR
+mvn archetype:generate -DgroupId=com.websystique.multimodule -DartifactId=parent-project  -DarchetypeArtifactId=maven-archetype-webapp  -DinteractiveMode=false
 
 Step 2 : Update pom.xml to declare it as parent project
 Open pom.xml of above created parent-project and change the packaging to ‘pom’.
