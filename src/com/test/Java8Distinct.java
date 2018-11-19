@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 public class Java8Distinct {
 
 	public static void main(String[] args) {
-		List<String> l = new ArrayList<>();
+		/*List<String> l = new ArrayList<>();
 		l.add("Naveenkumar.P@itcinfotech.com");
 		l.add("Noor.Hasan@itcinfotech.com");
 		l.add("Ashutosh.Razdan@itcinfotech.com");
@@ -19,7 +19,14 @@ public class Java8Distinct {
 		
 		System.out.println(l);
 		List<String> distinctElements = l.stream().distinct().collect(Collectors.toList());
-		System.out.println(distinctElements);
+		System.out.println(distinctElements);*/
+		
+		if	("test".equalsIgnoreCase(null)) {
+			System.out.println(true);
+		} else {
+			System.out.println(false);
+		}
+		
 	}
 
 }
